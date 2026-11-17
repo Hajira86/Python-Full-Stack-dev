@@ -1,4 +1,4 @@
-name= "nibbi"
+name= "HAJIRA"
 Age=19
 marks=85
 college="GCEM"
