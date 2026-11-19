@@ -22,6 +22,6 @@
 // console.log(typeof result);
 // console.log(typeof address);
 
-function changeColor() {
-  document.body.style.backgroundColor = "lightblue";
-}
+// function changeColor() {
+//   document.body.style.backgroundColor = "lightblue";
+// }
